@@ -3,7 +3,7 @@ package com.prajwal;
 import java.util.*;
 
 public class Main {
-    //Array list to hold player and cpu positions
+    //Array list that holds the player and cpu positions
     static ArrayList<Integer> playerPositions = new ArrayList<Integer>();
     static ArrayList<Integer> cpuPositions = new ArrayList<Integer>();
 
